@@ -4,9 +4,7 @@ body, html{
 }
 .background-img {
 	height: 100%;
-
 	background-color: #00DBDE;
-
 	background: url(../assets/background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
